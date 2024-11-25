@@ -12,8 +12,8 @@ int main()
     a = b;
     b = temp;
 
-    cout << "\nAfter swapping." << endl;
+    cout << "\nAfter swapping the code ." << endl;
     cout << "a = " << a << ", b = " << b << endl;
-
+// here  i  am cheanging my code frome here 
     return 0;
 }
